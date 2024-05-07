@@ -1,9 +1,10 @@
-Knead to Know Bakery Management System
+# Knead to Know Bakery Management System
 
-Description
+# Description
 The Knead to Know Bakery Management System is a comprehensive Java-based application designed to facilitate the daily operations of a bakery. This system manages product selections, order calculations, and receipt printing, enhancing the efficiency of service delivery. With an intuitive GUI, the system simplifies interactions, making it easy for staff to perform their duties effectively.
 
-Features
+# Features
+
 User Authentication: Manages user sessions and permissions.
 
 Product Management: Allows the selection of bakery items, with adjustable quantities.
@@ -14,7 +15,8 @@ Receipt Printing: Generates a formatted receipt that can be printed, detailing e
 
 Modern GUI: Provides a user-friendly graphical interface with clear, actionable components.
 
-Tech Stack
+# Tech Stack
+
 Java: Core programming language.
 
 Swing: GUI toolkit for Java for creating graphical user interfaces.
@@ -42,7 +44,7 @@ javac MainFrame.java Login.java Registration.java
 # Run the application starting with the login interface
 java Login
 
-Usage
+# Usage
 After launching the Login application:
 
 Login: Existing users can log in using their credentials to access the MainFrame of the application.
