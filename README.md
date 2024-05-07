@@ -30,18 +30,18 @@ MainFrame.java: This is the main interface for the bakery management system, han
 Login.java: Manages user authentication, ensuring that only authorized personnel can access the system functionalities.
 Registration.java: Allows new users to register, adding their credentials to the system’s database for subsequent login attempts.
 
-Setup and Installation
+# Setup and Installation
 
-# Clone the repository
+Clone the repository
 git clone https://github.com/yourgithubusername/kneadtoknow.git
 
-# Navigate to the project directory
+Navigate to the project directory
 cd kneadtoknow
 
-# Compile the Java files
+Compile the Java files
 javac MainFrame.java Login.java Registration.java
 
-# Run the application starting with the login interface
+Run the application starting with the login interface
 java Login
 
 # Usage
