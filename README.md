@@ -48,7 +48,9 @@ java Login
 After launching the Login application:
 
 Login: Existing users can log in using their credentials to access the MainFrame of the application.
+
 Registration: New users can register by providing necessary information which then allows them access to the system upon login.
+
 MainFrame: Upon successful login, users can:
 Select products and specify quantities.
 Use the "Total" button to calculate the total price including tax.
